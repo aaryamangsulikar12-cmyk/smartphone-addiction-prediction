@@ -53,6 +53,12 @@ smartphone-addiction-prediction/
 ├── PSA-XGBoost.ipynb
 └── README.md
 
+## Dataset
+The dataset was provided through the Kaggle competition Predicting Smartphone Addiction — Playground Series S6E8.
+The competition dataset is not included in this repository because the competition rules restrict participants from publishing, redistributing, or making the Competition Data available to people who have not agreed to the competition rules.
+To reproduce the analysis, obtain the competition data directly through Kaggle after joining the competition.
+The notebooks in this repository contain the data preprocessing, exploratory analysis, model training, and evaluation workflow.
+
 ## Author
 Aarya Mangsulikar
 MSc Data Science
